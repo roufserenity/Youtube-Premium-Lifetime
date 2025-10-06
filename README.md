@@ -51,7 +51,7 @@ Kumpulan ekstensi browser untuk mendapatkan pengalaman seperti YouTube Premium s
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
-    *   **Fake Youtube Premium**: [Unduh di sini](https://bicolink.com/gW2lkySrB) (berbentuk file `.zip`)
+    *   **Fake Youtube Premium**: [Unduh di sini](https://bicolink.com/wCMC9sLst) (berbentuk file `.zip`)
 
 3.  **Instal Ekstensi "Fake Youtube Premium"**
     *   Ekstrak file `.zip` yang sudah diunduh.
@@ -82,7 +82,7 @@ Kumpulan ekstensi browser untuk mendapatkan pengalaman seperti YouTube Premium s
     *   [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   **uBlock Origin**: [Unduh versi terbaru di sini](https://github.com/gorhill/uBlock/releases) (unduh file `uBlock0.chromium.zip`)
-    *   **Fake Youtube Premium**: [Unduh di sini](https://bicolink.com/gW2lkySrB) (berbentuk file `.zip`)
+    *   **Fake Youtube Premium**: [Unduh di sini](https://bicolink.com/wCMC9sLst) (berbentuk file `.zip`)
 
 3.  **Instal Ekstensi Manual (`.zip`)**
     *   Ekstrak semua file `.zip` (uBlock Origin & Fake Premium) ke folder terpisah.
@@ -130,7 +130,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
-    *   **Fake Youtube Premium**: [Download here](https://bicolink.com/gW2lkySrB) (as a `.zip` file)
+    *   **Fake Youtube Premium**: [Download here](https://bicolink.com/wCMC9sLst) (as a `.zip` file)
 
 3.  **Install the "Fake Youtube Premium" Extension**
     *   Extract the downloaded `.zip` file.
@@ -161,7 +161,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   **uBlock Origin**: [Download the latest version here](https://github.com/gorhill/uBlock/releases) (download the `uBlock0.chromium.zip` file)
-    *   **Fake Youtube Premium**: [Download here](https://bicolink.com/gW2lkySrB) (as a `.zip` file)
+    *   **Fake Youtube Premium**: [Download here](https://bicolink.com/wCMC9sLst) (as a `.zip` file)
 
 3.  **Install Manual Extensions (`.zip`)**
     *   Extract all `.zip` files (uBlock Origin & Fake Premium) into separate folders.
@@ -209,7 +209,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
-    *   **Fake Youtube Premium**：[在此处下载](https://bicolink.com/gW2lkySrB)（`.zip` 文件）
+    *   **Fake Youtube Premium**：[在此处下载](https://bicolink.com/wCMC9sLst)（`.zip` 文件）
 
 3.  **安装 "Fake Youtube Premium" 扩展**
     *   解压下载的 `.zip` 文件。
@@ -240,7 +240,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   **uBlock Origin**：[在此处下载最新版本](https://github.com/gorhill/uBlock/releases)（下载 `uBlock0.chromium.zip` 文件）
-    *   **Fake Youtube Premium**：[在此处下载](https://bicolink.com/gW2lkySrB)（`.zip` 文件）
+    *   **Fake Youtube Premium**：[在此处下载](https://bicolink.com/wCMC9sLst)（`.zip` 文件）
 
 3.  **安装手动扩展 (`.zip`)**
     *   将所有 `.zip` 文件（uBlock Origin 和 Fake Premium）解压到单独的文件夹中。
@@ -289,7 +289,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
-    *   **Fake Youtube Premium**: [こちらからダウンロード](https://bicolink.com/gW2lkySrB)（`.zip` ファイル形式）
+    *   **Fake Youtube Premium**: [こちらからダウンロード](https://bicolink.com/wCMC9sLst)（`.zip` ファイル形式）
 
 3.  **「Fake Youtube Premium」拡張機能のインストール**
     *   ダウンロードした `.zip` ファイルを解凍します。
@@ -320,7 +320,7 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   [Return Youtube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
     *   [Enhancer for YouTube™](https://chrome.google.com/webstore/detail/enhancer-for-YouTube%E2%84%A2/ponfpcnoihfmfllpaingbgckeeldkhle)
     *   **uBlock Origin**: [最新版をこちらからダウンロード](https://github.com/gorhill/uBlock/releases)（`uBlock0.chromium.zip` ファイルをダウンロード）
-    *   **Fake Youtube Premium**: [こちらからダウンロード](https://bicolink.com/gW2lkySrB)（`.zip` ファイル形式）
+    *   **Fake Youtube Premium**: [こちらからダウンロード](https://bicolink.com/wCMC9sLst)（`.zip` ファイル形式）
 
 3.  **手動で拡張機能をインストール (`.zip`)**
     *   すべての `.zip` ファイル（uBlock Origin と Fake Premium）を別々のフォルダに解凍します。
