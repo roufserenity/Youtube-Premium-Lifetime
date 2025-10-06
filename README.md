@@ -58,7 +58,7 @@ Panduan untuk mendapatkan pengalaman seperti YouTube Premium secara gratis.
     | **Langkah 3** | **Langkah 4** |
     | ![Pengaturan CustomBlocker 3](assets/method1_setting_3.png) | ![Pengaturan CustomBlocker 4](assets/method1_setting_4.png) |
     | **Langkah 5 (Hasil Akhir)** |
-    | ![Pengaturan CustomBlocker 5](assets/method1_setting_5.png) |
+    | ![Tampilan Akhir](assets/preview.png) |
 
 ---
 
@@ -87,7 +87,7 @@ Panduan untuk mendapatkan pengalaman seperti YouTube Premium secara gratis.
     | :---: | :---: |
     | ![Pengaturan uBlock 1](assets/method2_setting_1.png) | ![Pengaturan uBlock 2](assets/method2_setting_2.png) |
     | **Langkah 3: Salin-Tempel Filter** | **Langkah 4: Terapkan Perubahan** |
-    | ![Pengaturan uBlock 3](assets/method2_setting_3.png) | ![Pengaturan uBlock 4](assets/method2_setting_4.png) |
+    | ![Pengaturan uBlock 3](assets/method2_setting_3.png) | ![Pengaturan uBlock 4](assets/method2_setting_4.png) | ![Pengaturan uBlock 5](assets/method2_setting_5.png) |
     | **Langkah 5: Selesai!** Refresh YouTube & nikmati! 🎉|
 
 💡 **Fitur Tambahan:** Ekstensi "Fake Youtube Premium" akan mengubah logo YouTube biasa menjadi logo YouTube Premium.
@@ -134,7 +134,7 @@ Guide to get a YouTube Premium-like experience for free.
     | **Step 3** | **Step 4** |
     | ![CustomBlocker Setting 3](assets/method1_setting_3.png) | ![CustomBlocker Setting 4](assets/method1_setting_4.png) |
     | **Step 5 (Final Result)** |
-    | ![CustomBlocker Setting 5](assets/method1_setting_5.png) |
+    | ![Tampilan Akhir](assets/preview.png) |
 
 ---
 
@@ -163,7 +163,7 @@ Guide to get a YouTube Premium-like experience for free.
     | :---: | :---: |
     | ![uBlock Setting 1](assets/method2_setting_1.png) | ![uBlock Setting 2](assets/method2_setting_2.png) |
     | **Step 3: Copy-Paste Filter** | **Step 4: Apply Changes** |
-    | ![uBlock Setting 3](assets/method2_setting_3.png) | ![uBlock Setting 4](assets/method2_setting_4.png) |
+    | ![uBlock Setting 3](assets/method2_setting_3.png) | ![uBlock Setting 4](assets/method2_setting_4.png) | ![uBlock Setting 5](assets/method2_setting_5.png) |
     | **Step 5: Done!** Refresh YouTube & enjoy! 🎉|
 
 💡 **Bonus Feature:** The "Fake Youtube Premium" extension will change the standard YouTube logo to the YouTube Premium logo.
@@ -211,7 +211,7 @@ Guide to get a YouTube Premium-like experience for free.
     | **步骤 3** | **步骤 4** |
     | ![CustomBlocker 设置 3](assets/method1_setting_3.png) | ![CustomBlocker 设置 4](assets/method1_setting_4.png) |
     | **步骤 5 (最终结果)** |
-    | ![CustomBlocker 设置 5](assets/method1_setting_5.png) |
+    | ![Tampilan Akhir](assets/preview.png) |
 
 ---
 
@@ -240,7 +240,7 @@ Guide to get a YouTube Premium-like experience for free.
     | :---: | :---: |
     | ![uBlock 设置 1](assets/method2_setting_1.png) | ![uBlock 设置 2](assets/method2_setting_2.png) |
     | **步骤 3：复制粘贴过滤器** | **步骤 4：应用更改** |
-    | ![uBlock 设置 3](assets/method2_setting_3.png) | ![uBlock 设置 4](assets/method2_setting_4.png) |
+    | ![uBlock 设置 3](assets/method2_setting_3.png) | ![uBlock 设置 4](assets/method2_setting_4.png) | ![uBlock 设置 5](assets/method2_setting_5.png) |
     | **步骤 5：完成！** 刷新 YouTube 并享受！ 🎉|
 
 💡 **附加功能：** "Fake Youtube Premium" 扩展会将标准的 YouTube 徽标更改为 YouTube Premium 徽标。
@@ -288,7 +288,7 @@ Guide to get a YouTube Premium-like experience for free.
     | **ステップ 3** | **ステップ 4** |
     | ![CustomBlocker 設定 3](assets/method1_setting_3.png) | ![CustomBlocker 設定 4](assets/method1_setting_4.png) |
     | **ステップ 5 (最終結果)** |
-    | ![CustomBlocker 設定 5](assets/method1_setting_5.png) |
+    | ![Tampilan Akhir](assets/preview.png) |
 
 ---
 
@@ -317,7 +317,7 @@ Guide to get a YouTube Premium-like experience for free.
     | :---: | :---: |
     | ![uBlock 設定 1](assets/method2_setting_1.png) | ![uBlock 設定 2](assets/method2_setting_2.png) |
     | **ステップ3：フィルターをコピー＆ペースト** | **ステップ4：変更を適用** |
-    | ![uBlock 設定 3](assets/method2_setting_3.png) | ![uBlock 設定 4](assets/method2_setting_4.png) |
+    | ![uBlock 設定 3](assets/method2_setting_3.png) | ![uBlock 設定 4](assets/method2_setting_4.png) | ![uBlock 設定 5](assets/method2_setting_5.png) |
     | **ステップ5：完了！** YouTubeをリフレッシュしてお楽しみください！ 🎉|
 
 💡 **追加機能：** 「Fake Youtube Premium」拡張機能は、標準のYouTubeロゴをYouTube Premiumロゴに変更します。# 
