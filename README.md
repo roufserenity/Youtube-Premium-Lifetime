@@ -92,9 +92,15 @@ Kumpulan ekstensi browser untuk mendapatkan pengalaman seperti YouTube Premium s
     *   Refresh browser Anda dan nikmati YouTube seperti Premium! 🎉
 
 4.  **Pengaturan AdBlock (Brave Shield & uBlock Origin)**
-    *   **Tidak Perlu Pengaturan Rumit!** Brave Shield (ikon singa di address bar) dan uBlock Origin sudah sangat efektif secara default.
-    *   Pastikan Brave Shield diatur ke mode **Standar** atau **Agresif**.
-    *   uBlock Origin akan bekerja otomatis di latar belakang. Anda tidak perlu melakukan apa-apa.
+    *   Ikuti 5 langkah pada gambar di bawah ini untuk memblokir iklan YouTube.
+
+    | Langkah 1 | Langkah 2 |
+    | :---: | :---: |
+    | ![Pengaturan CustomBlocker 1](assets/method2_setting_1.png) | ![Pengaturan CustomBlocker 2](assets/method2_setting_2.png) |
+    | **Langkah 3** | **Langkah 4** |
+    | ![Pengaturan CustomBlocker 3](assets/method2_setting_3.png) | ![Pengaturan CustomBlocker 4](assets/method2_setting_4.png) |
+    | **Langkah 5 (Hasil Akhir)** |
+    | ![Pengaturan CustomBlocker 5](assets/method2_setting_5.png) |
 
 💡 **Fitur Tambahan:** Ekstensi "Fake Youtube Premium" akan mengubah logo YouTube biasa menjadi logo YouTube Premium.
 
@@ -165,9 +171,15 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   Refresh your browser and enjoy your Premium-like YouTube! 🎉
 
 4.  **AdBlock Setup (Brave Shield & uBlock Origin)**
-    *   **No Complicated Setup Needed!** Brave Shield (the lion icon in the address bar) and uBlock Origin are highly effective by default.
-    *   Ensure Brave Shield is set to **Standard** or **Aggressive**.
-    *   uBlock Origin will work automatically in the background. You don't need to do anything.
+    *   Follow the 5 steps in the images below to block YouTube ads.
+
+    | Step 1 | Step 2 |
+    | :---: | :---: |
+    | ![CustomBlocker Setting 1](assets/method2_setting_1.png) | ![CustomBlocker Setting 2](assets/method2_setting_2.png) |
+    | **Step 3** | **Step 4** |
+    | ![CustomBlocker Setting 3](assets/method2_setting_3.png) | ![CustomBlocker Setting 4](assets/method2_setting_4.png) |
+    | **Step 5 (Final Result)** |
+    | ![CustomBlocker Setting 5](assets/method2_setting_5.png) |
 
 💡 **Bonus Feature:** The "Fake Youtube Premium" extension will change the standard YouTube logo to the YouTube Premium logo.
 
@@ -238,9 +250,16 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   刷新您的浏览器，享受您的 Premium 般的 YouTube！🎉
 
 4.  **广告拦截设置 (Brave 护盾 & uBlock Origin)**
-    *   **无需复杂设置！** Brave 护盾（地址栏中的狮子图标）和 uBlock Origin 在默认情况下已非常有效。
-    *   确保 Brave 护盾设置为 **标准** 或 **积极** 模式。
-    *   uBlock Origin 将在后台自动工作，您无需执行任何操作。
+    *   按照下图中的 5 个步骤操作，以屏蔽 YouTube 广告。
+
+    | 步骤 1 | 步骤 2 |
+    | :---: | :---: |
+    | ![CustomBlocker 设置 1](assets/method12_setting_1.png) | ![CustomBlocker 设置 2](assets/method2_setting_2.png) |
+    | **步骤 3** | **步骤 4** |
+    | ![CustomBlocker 设置 3](assets/method2_setting_3.png) | ![CustomBlocker 设置 4](assets/method2_setting_4.png) |
+    | **步骤 5 (最终结果)** |
+    | ![CustomBlocker 设置 5](assets/method2_setting_5.png) |
+
 
 💡 **附加功能：** "Fake Youtube Premium" 扩展会将标准的 YouTube 徽标更改为 YouTube Premium 徽标。
 
@@ -311,8 +330,12 @@ A collection of browser extensions to get a YouTube Premium-like experience for 
     *   ブラウザをリフレッシュして、PremiumのようなYouTubeをお楽しみください！🎉
 
 4.  **広告ブロックの設定 (Braveシールド & uBlock Origin)**
-    *   **複雑な設定は不要です！** Braveシールド（アドレスバーのライオンのアイコン）とuBlock Originは、デフォルトで非常に効果的です。
-    *   Braveシールドが **標準** または **積極的** に設定されていることを確認してください。
-    *   uBlock Originはバックグラウンドで自動的に動作します。何もする必要はありません。
+    | ステップ 1 | ステップ 2 |
+    | :---: | :---: |
+    | ![CustomBlocker 設定 1](assets/method2_setting_1.png) | ![CustomBlocker 設定 2](assets/method2_setting_2.png) |
+    | **ステップ 3** | **ステップ 4** |
+    | ![CustomBlocker 設定 3](assets/method2_setting_3.png) | ![CustomBlocker 設定 4](assets/method2_setting_4.png) |
+    | **ステップ 5 (最終結果)** |
+    | ![CustomBlocker 設定 5](assets/method2_setting_5.png) |
 
 💡 **追加機能：** 「Fake Youtube Premium」拡張機能は、標準のYouTubeロゴをYouTube Premiumロゴに変更します。
