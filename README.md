@@ -42,6 +42,7 @@ Panduan untuk mendapatkan pengalaman seperti YouTube Premium secara gratis.
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
     *   [Fake Youtube Premium](https://bicolink.com/gW2lkySrB) (berbentuk file `.zip`)
+    *   [CustomFilter untuk uBlock](https://bicolink.com/Lw3BGqe) untuk mengunduh.
 
 3.  **Instal Ekstensi Manual (`.zip`)**
     *   Ekstrak file `.zip` yang sudah diunduh.
@@ -194,6 +195,7 @@ Guide to get a YouTube Premium-like experience for free.
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
     *   [Fake Youtube Premium](https://bicolink.com/gW2lkySrB)（`.zip` 文件）
+    *   [uBlock 自定义过滤器](https://bicolink.com/Lw3BGqe)以下载。
 
 3.  **安装手动扩展 (`.zip`)**
     *   解压下载的 `.zip` 文件。
@@ -270,6 +272,7 @@ Guide to get a YouTube Premium-like experience for free.
     *   [Ghostery Tracker & Ad Blocker](https://chromewebstore.google.com/detail/ghostery-tracker-ad-block/mlomiejdfkolichcflejclcbmpeaniij)
     *   [CustomBlocker](https://chromewebstore.google.com/detail/customblocker/fkeliajcchpanffhmbacpfdgjbmocfpj)
     *   [Fake Youtube Premium](https://bicolink.com/gW2lkySrB)（`.zip` ファイル）
+    *   [uBlock用カスタムフィ](https://bicolink.com/Lw3BGqe)でダウンロード。
 
 3.  **手動で拡張機能をインストール (`.zip`)**
     *   ダウンロードした `.zip` ファイルを解凍します。
